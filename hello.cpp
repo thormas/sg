@@ -1,9 +1,9 @@
-// version 1.5
-// ready for a snapshot
+// version 1.51 quickfix
+
 #include <stdio.h>
 #include <math.h>
 
 void main() {
-	printf("hello");
+	printf("hello, asshole");	// fixing a little error, but not changing too much
 	printf("Sinus(pi)=", sin(PI));
 }
